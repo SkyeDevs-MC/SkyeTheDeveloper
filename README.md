@@ -1,6 +1,6 @@
 # Skylar Koningin
 - 👋 Hi, I’m @skylar-koningin
 - 😄 Pronouns: She/Her, They/Them, or It
-- 🏳️‍🌈 LGBT Labels: Enby, Transfem, Saphhic 
+- 🏳️‍🌈 LGBT Labels: Transfem, Enby, Lunarian, Sapphic
+- 🖥️ I code in Ruby and POSIX-Compliant Shell, and I understand Python.
 - Last Name: My last name is pronounced "koh-ning-in"
-- I code shell for fun and to automate stuff. If you ever need anthing done in a single shell script and you dont want to code it, send me a dm on discord at skylar_koningin and i'll code it!
