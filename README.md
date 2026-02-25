@@ -1,7 +1,7 @@
 # Hello!
 I am Skylar Koningin, but I go by Skye.
 I am a self-taught programmer, currently working in C, C#, Java, and Kotlin.
-My main language is C, but I wall back to C# or Java when programming stuff that reqires OOP, and I use Kotlin mainly for prototyping what I want to program.
+My main language is C, but I fall back to C# or Java when programming stuff that reqires OOP, and I use Kotlin mainly for prototyping what I want to program.
 
 My Programming History:
 2020-ish: My first language was Scratch, then I learned enough JavaScript to write FizzBuzz.
