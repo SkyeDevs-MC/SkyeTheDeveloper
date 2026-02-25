@@ -1,4 +1,4 @@
-#Hello!
+# Hello!
 I am Skylar Koningin, but I go by Skye.
 I am a self-taught programmer, currently working in C, C#, Java, and Kotlin.
 My main language is C, but I wall back to C# or Java when programming stuff that reqires OOP, and I use Kotlin mainly for prototyping what I want to program.
